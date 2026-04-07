@@ -40,4 +40,3 @@
 @@||.cvxopt.org^
 @@||.docs.sympy.org^
 @@||.mpmath.org^
-@@||^
