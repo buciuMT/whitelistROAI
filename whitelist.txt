@@ -1,6 +1,6 @@
 @@||.nitro-ai.org^
-@@||.cloudflarestorage.com^
-@@||.googleapis.com^
+@@||*.cloudflarestorage.com^
+@@||fonts.googleapis.com^
 @@||.assets.readthedocs.org^
 @@||.docs.pytorch.org^
 @@||.docs.pytorch.org^
